@@ -37,7 +37,7 @@
   />
   <path
       id="path1721"
-      style="stroke-linejoin:round;stroke:#ffffff;stroke-linecap:round;stroke-width:10;fill:none"
+      style="stroke-linejoin:round;stroke:#ffffff00;stroke-linecap:round;stroke-width:10;fill:none"
       d="m5.6238 15.659h48.752v28.682h-48.752l-0.0002-28.682z"
   />
   <g
@@ -46,7 +46,7 @@
     >
     <path
         id="path589"
-        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:30.501;fill:#ffffff"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:30.501;fill:#ffffff00"
         d="m69.819 119.6h303.75v171.31h-303.75l-0.001-171.31z"
         transform="matrix(.17049 0 0 .17824 -7.3882 -6.0097)"
     />
