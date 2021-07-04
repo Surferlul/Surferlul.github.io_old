@@ -19,7 +19,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
-  <body>
+  <body style="background-color:black;">
 
     <header class="page-header" role="banner">
       <h1 class="project-name">Homepage</h1>
@@ -53,7 +53,7 @@
       {% endif %}
     </header>
 
-    <main id="content" class="main-content" role="main" style="background-color:grey;">
+    <main id="content" class="main-content" role="main">
       {{ content }}
       {% if site.github.is_project_page %}
       <footer class="site-footer">
