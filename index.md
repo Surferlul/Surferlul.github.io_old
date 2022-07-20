@@ -11,4 +11,4 @@
 
 ## My Blog
 
-- ### [Home Page](https://surferlul.github.io/blogs/)
+- ### [Home Page](https://surferlul.github.io/blog/)
